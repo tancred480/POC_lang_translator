@@ -25,7 +25,7 @@ function App() {
           id="demo-simple-select-standard"
           value={language}
           onChange={handleLangChange}
-          label="Age"
+          label="Select Language"
         >
           <MenuItem value="en">
             <em>English</em>
